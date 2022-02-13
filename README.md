@@ -5,9 +5,9 @@ A clean dark visual studio theme, that combines the purple of the interface with
 
 Based on One Dark Pro theme template.
 ## Screenshots
-![Screenshot 1](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vs/main/Screenshots/screenshot1.png?)
+![Screenshot 1](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vs/main/Screenshots/Screenshot1.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vs/main/Screenshots/screenshot2.png?)
+![Screenshot 2](https://raw.githubusercontent.com/Bastianpv/mystika-dark-theme-vs/main/Screenshots/Screenshot2.png)
 ## License
 This project is [GPL-3.0 License](https://github.com/Bastianpv/mystika-dark-theme/blob/master/LICENSE) licensed.
 
