@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="Mystika_Dark_Theme.ec53e5e5-f4c5-44d4-900a-20965f4fa498" Version="1.1.6" Language="en-US" Publisher="Bastianpv" />
-        <DisplayName>Mystika Dark Theme</DisplayName>
+        <DisplayName>Mystika Dark Theme for VS</DisplayName>
         <Description xml:space="preserve">A clean dark visual studio theme, that combines the purple of the interface with shades of orange, red, green and blue.</Description>
         <MoreInfo>https://github.com/bastianpv/mystika-dark-theme-vs</MoreInfo>
         <License>LICENSE.txt</License>
